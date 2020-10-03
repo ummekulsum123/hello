@@ -5,10 +5,10 @@
  * A simple hello world program in C
  *
  */
-#include<stdlib.h>
-#include<stdio.h>
+#include<stdioo.h>
+#include<conio.h>
 
-int main(int argc, char **argv) {
+int main(int argc, char **argv); {
 
   printf("Max Van Arsdall\n");
   printf("Undecided\n");
